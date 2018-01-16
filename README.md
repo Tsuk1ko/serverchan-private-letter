@@ -5,7 +5,7 @@
 [iframe内嵌](https://lolico.moe/contact.html)  
 [完整页面版](https://serverchan.ykilin.moe)
 
-可用于个人博客联系方式等私信发送需求场合
+可用于个人博客联系方式等私信发送需求场合，并且会将消息发送者的 IP 一并发送
 
 需求……没什么需求，大概有个`nginx` `apache`之类的再加上`php`就能跑了吧
 
