@@ -2,7 +2,6 @@
 一个基于 [serverchan](https://sc.ftqq.com) 微信推送服务的私信发送器
 
 具体效果可以看：  
-[iframe内嵌](https://lolico.moe/contact.html)  
 [完整页面版](https://sc.lolico.moe)
 
 可用于个人博客联系方式等私信发送需求场合，并且会将消息发送者的 IP 一并发送
